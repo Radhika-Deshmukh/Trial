@@ -1,0 +1,12 @@
+# Dependencies and build folders
+node_modules/
+venv/
+__pycache__/
+dist/
+build/
+
+# System and IDE files
+.DS_Store
+*.log
+*.env
+.vscode/
